@@ -61,7 +61,7 @@ Github :- github.com/gblpcky
 
 If you want to do any python based project with me please kindly mail me at gblpacky7@hotmail.com
 
-If you like my code :3 buy me a beer 
+If you like my code :3 buy me a coffee or tea (i love tea)
 
 # Illegal Usage is prohibited !!
 
