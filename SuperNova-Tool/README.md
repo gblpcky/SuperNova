@@ -1,11 +1,11 @@
-# War Child 
+# SuperNova
 
-Warchild is a denial of service testing suite made for analysing the strength of your website 
+SuperNova is a denial of service testing suite made for analysing the strength of your website 
 against different kinds of denial of service attacks you will be facing which are mainly 
 organised by crooks to cause damage to your website..
   
 
-![Alt text](http://oi64.tinypic.com/23uquzt.jpg "Screenshot")
+![Alt text](https://o.aolcdn.com/images/dims?quality=100&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3865%252C2576%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F479a6720b376bc22b10b8196811c88a6%252F204371968%252F520970670.jpg%26client%3Da1acac3e1b3290917d92%26signature%3D3e57c073b9179851ca70255656c752a9936e19c6&client=amp-blogside-v2&signature=f3130d2b0ad333d604acfae26567004eb79656f2 "Screenshot")
 
 # Installation
 ```
@@ -16,7 +16,7 @@ For Installing the required modules just run the following command in your termi
 ```
 # Use
 ```
-python warchild.py
+python supernova.py
 ```
 # Overview 
 
@@ -54,17 +54,14 @@ soon as possible .
 
 # Author 
 
-Souhardya Sardar is an independent security analyst and programmer who loves to break things in order to secure them.
+Gabriel Packy is an independent security analyst and programmer who loves to break things in order to secure them.
 Github :- github.com/Souhardya 
  
 # Donate and contact :3 
 
-If you want to do any python based project with me please kindly mail me at Souhardya.sardar@protonmail.com
+If you want to do any python based project with me please kindly mail me at gblpacky7@hotmail.com
 
 If you like my code :3 buy me a beer 
-
-Bitcoin Address :- 1EyfivBCpdxKonG9imh8Mib3Bgeuy8cV8F
-
 
 # Illegal Usage is prohibited !!
 
