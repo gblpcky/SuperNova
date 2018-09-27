@@ -10,7 +10,7 @@ For Installing the required modules just run the following command in your termi
 ```
 # Use
 ```
-python warchild.py
+python supernova.py
 ```
 # Overview 
 
@@ -48,7 +48,7 @@ soon as possible .
 
 # Author 
 
-Souhardya Sardar is an independent security analyst and programmer who loves to break things in order to secure them.
+Gabriel Packy is an independent security analyst and programmer who loves to break things in order to secure them.
 Github :- github.com/gblpcky 
  
 # Donate and contact :3 
@@ -61,63 +61,63 @@ We are not responsible for any of your actions.
  
 =========================================
 
-# SuperNova é uma suite de testes de negação de serviço feita para analisar a força do seu site
-contra diferentes tipos de ataques de negação de serviço que você enfrentará, que são principalmente
+# SuperNova Ã© uma suite de testes de negaÃ§Ã£o de serviÃ§o feita para analisar a forÃ§a do seu site
+contra diferentes tipos de ataques de negaÃ§Ã£o de serviÃ§o que vocÃª enfrentarÃ¡, que sÃ£o principalmente
 organizado por bandidos para causar danos ao seu site ..
-  
+Â Â 
 `` `
-Para instalar os módulos necessários, basta executar o seguinte comando no seu terminal :)
+Para instalar os mÃ³dulos necessÃ¡rios, basta executar o seguinte comando no seu terminal :)
 
-                 instalação pip -r requirements.txt
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â instalaÃ§Ã£o pip -r requirements.txt
 
 `` `
 # Usar
 `` `
-python warchild.py
+python supernova
 `` `
-# Visão geral
+# VisÃ£o geral
 
-Essa suíte de negação de serviço é composta dos seguintes recursos:
-
-
-
-1. CloudBust: - Cloudbust a.k.a AETHON é um resolvedor cloudflare que procura dentro do cloudflare protegido
-                site para configuração de DNS mal configurada
-                Basicamente usa o dnsdumpster.com como seu resolvedor:) e identifica o IP de backend do site.
-                Vamos adicionar mais atualizações no futuro.
-
-2. HTTP Flood: - HTTP Flood é um tipo de ataque de negação de serviço no qual o invasor manipula solicitações indesejadas HTTP e POST para
-                 para atacar um servidor ou aplicativo da web.
-                 Em um flood HTTP, os clientes HTTP, como o navegador da Web, interagem com um aplicativo
-                 ou servidor para enviar solicitações HTTP. O objetivo do ataque é quando forçar o servidor
-                 alocar o máximo de recursos possível para servir o ataque, negando assim aos usuários legítimos o acesso aos recursos do servidor.
-                 ALISA é uma ferramenta de http.d.o.s escrita de tal forma a sugar todos os recursos do site e é uma ferramenta de camada 7 D.O.S.
-
-3. TCP SYN Flood: - Uma inundação SYN é uma forma de ataque de negação de serviço em que um atacante envia uma sucessão de solicitações SYN para o sistema de um alvo.
-                    uma tentativa de consumir recursos de servidor suficientes para tornar o sistema irresponsivo ao tráfego legítimo.
-
-4. Inundação UDP: - Um ataque de inundação UDP é um ataque de negação de serviço (DoS) usando o protocolo User Datagram (UDP), um computador sem sessão / sem conexão
-                protocolo de rede.
+Essa suÃ­te de negaÃ§Ã£o de serviÃ§o Ã© composta dos seguintes recursos:
 
 
-# Código aberto
 
-Redistribuir e modificar sem restrições :)
+1. CloudBust: - Cloudbust a.k.a AETHON Ã© um resolvedor cloudflare que procura dentro do cloudflare protegido
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â site para configuraÃ§Ã£o de DNS mal configurada
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Basicamente usa o dnsdumpster.com como seu resolvedor:) e identifica o IP de backend do site.
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Vamos adicionar mais atualizaÃ§Ãµes no futuro.
 
-Se você encontrar algum problema com o código, abra
-um problema no nosso repositório e vamos tentar corrigi-lo como
-assim que possível .
- 
+2. HTTP Flood: - HTTP Flood Ã© um tipo de ataque de negaÃ§Ã£o de serviÃ§o no qual o invasor manipula solicitaÃ§Ãµes indesejadas HTTP e POST para
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â para atacar um servidor ou aplicativo da web.
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Em um flood HTTP, os clientes HTTP, como o navegador da Web, interagem com um aplicativo
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ou servidor para enviar solicitaÃ§Ãµes HTTP. O objetivo do ataque Ã© quando forÃ§ar o servidor
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â alocar o mÃ¡ximo de recursos possÃ­vel para servir o ataque, negando assim aos usuÃ¡rios legÃ­timos o acesso aos recursos do servidor.
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ALISA Ã© uma ferramenta de http.d.o.s escrita de tal forma a sugar todos os recursos do site e Ã© uma ferramenta de camada 7 D.O.S.
+
+3. TCP SYN Flood: - Uma inundaÃ§Ã£o SYN Ã© uma forma de ataque de negaÃ§Ã£o de serviÃ§o em que um atacante envia uma sucessÃ£o de solicitaÃ§Ãµes SYN para o sistema de um alvo.
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â uma tentativa de consumir recursos de servidor suficientes para tornar o sistema irresponsivo ao trÃ¡fego legÃ­timo.
+
+4. InundaÃ§Ã£o UDP: - Um ataque de inundaÃ§Ã£o UDP Ã© um ataque de negaÃ§Ã£o de serviÃ§o (DoS) usando o protocolo User Datagram (UDP), um computador sem sessÃ£o / sem conexÃ£o
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â protocolo de rede.
+
+
+# CÃ³digo aberto
+
+Redistribuir e modificar sem restriÃ§Ãµes :)
+
+Se vocÃª encontrar algum problema com o cÃ³digo, abra
+um problema no nosso repositÃ³rio e vamos tentar corrigi-lo como
+assim que possÃ­vel .
+Â 
 
 # Autor
 
-Souhardya Sardar é um analista de segurança independente e programador que adora quebrar as coisas para protegê-las.
+Gabriel Packy Ã© um analista de seguranÃ§a independente e programador que adora quebrar as coisas para protegÃª-las.
 Github: - github.com/gblpcky
- 
+Â 
 # Doe e entre em contato: 3
 
-Se você quiser fazer qualquer projeto baseado em python comigo por favor, envie-me gentilmente em gblpacky@gmail.com Se você gosta do meu código: 3 O uso ilegal é proibido !!
+Se vocÃª quiser fazer qualquer projeto baseado em python comigo por favor, envie-me gentilmente em gblpacky@gmail.com Se vocÃª gosta do meu cÃ³digo: 3 O uso ilegal Ã© proibido !!
 
-Qualquer tipo de uso ilegal desta ferramenta para causar danos a outras pessoas pode levá-lo diretamente para a cadeia :)
-Por favor, use esta estrutura apenas para fins de teste de segurança.
-Nós não somos responsáveis ??por nenhuma de suas ações.
+Qualquer tipo de uso ilegal desta ferramenta para causar danos a outras pessoas pode levÃ¡-lo diretamente para a cadeia :)
+Por favor, use esta estrutura apenas para fins de teste de seguranÃ§a.
+NÃ³s nÃ£o somos responsÃ¡veis ??por nenhuma de suas aÃ§Ãµes.
