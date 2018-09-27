@@ -55,7 +55,7 @@ soon as possible .
 # Author 
 
 Gabriel Packy is an independent security analyst and programmer who loves to break things in order to secure them.
-Github :- github.com/Souhardya 
+Github :- github.com/gblpcky
  
 # Donate and contact :3 
 
